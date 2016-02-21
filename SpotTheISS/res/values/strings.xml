@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spot the ISS</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Where is it?</string>
+    <string name="title_commingSoon_section">Coming soon</string>
+    <string name="title_section3">My Check-ins</string>
+
+</resources>
